@@ -3,7 +3,7 @@
 ## Introduction
 
 `miekgrrl` is a tiny specialized adaptor package with a single `Derive()` function which
-converts a `dns.Msg` to a `rrl.ResponseTuple` suitable for passing to
+converts a `miekg/dns.Msg` to a `rrl.ResponseTuple` suitable for passing to
 the [rrl](https://github.com/markdingo/rrl) `Debit()` function.
 
 By way of background, the [rrl](https://github.com/markdingo/rrl) package is an agnostic
@@ -13,7 +13,7 @@ both the [rrl](https://github.com/markdingo/rrl) and the
 [miekg](https://github.com/miekg/dns) package prior to understanding the purpose of this
 package.
 
-The sole reason for adaptor packages such as this is to keep the `rrl` package agnostic.
+The sole reason for adaptor packages such as this is to keep `markdingo/rrl` agnostic.
 
 ### Project Status
 
