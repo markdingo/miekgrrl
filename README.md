@@ -1,4 +1,4 @@
-# miekgrrl - Derive a [rrl](https://github.com/markdingo/rrl) ResponseTuple from a [miekg](https://github.com/miekg/dns) Msg
+# miekgrrl - Derive an [rrl](https://github.com/markdingo/rrl) ResponseTuple from a [miekg](https://github.com/miekg/dns) Msg
 
 ## Introduction
 
