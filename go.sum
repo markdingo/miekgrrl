@@ -1,5 +1,5 @@
-github.com/markdingo/rrl v0.0.0-20230214051524-b8b2cbac0c4b h1:oVUG2S6vsHTT81iVXB5w0Ixaqz2gX01VWxir8BCUgL8=
-github.com/markdingo/rrl v0.0.0-20230214051524-b8b2cbac0c4b/go.mod h1:vkP0Re1+y7ZPI/oOfcG4aiXGqv2OShhznYFy9YDJbFU=
+github.com/markdingo/rrl v1.0.0 h1:hnlbqn8XGbk4T91QhCy56d7i/xdEctWJ7poC+lbjwO0=
+github.com/markdingo/rrl v1.0.0/go.mod h1:vkP0Re1+y7ZPI/oOfcG4aiXGqv2OShhznYFy9YDJbFU=
 github.com/miekg/dns v1.1.50 h1:DQUfb9uc6smULcREF09Uc+/Gd46YWqJd5DbpPE9xkcA=
 github.com/miekg/dns v1.1.50/go.mod h1:e3IlAVfNqAllflbibAZEWOXOQ+Ynzk/dDozDxY7XnME=
 github.com/yuin/goldmark v1.3.5/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=

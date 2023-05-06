@@ -3,7 +3,7 @@ module github.com/markdingo/miekgrrl
 go 1.20
 
 require (
-	github.com/markdingo/rrl v0.0.0-20230214051524-b8b2cbac0c4b
+	github.com/markdingo/rrl v1.0.0
 	github.com/miekg/dns v1.1.50
 )
 
